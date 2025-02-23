@@ -1,0 +1,31 @@
+.header, .hero, .body, .bar, .footer{
+    background-color: aqua;
+    margin-bottom: 5px;
+}
+.box{
+    
+    background-color: blue;
+    margin: 8px 0;
+    min-height: 30px;
+}
+.box2_1{
+    background-color: yellow;
+}
+.box2_2{
+    background-color: yellow;
+}
+.box2_3{
+    background-color: yellow;
+}
+.box4_1{
+    background-color: mediumvioletred;
+}
+.box4_2{
+    background-color: mediumvioletred;
+}
+.box4_5{
+    background-color: mediumvioletred;
+}
+.box6{
+    background-color: lime;
+}
